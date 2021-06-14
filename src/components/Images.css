@@ -1,0 +1,13 @@
+.title {
+    font-weight: 700;
+    font-size: 1rem;
+}
+.button {
+    font-size: 0.7rem;
+    height: 1.5rem;
+    background: none;
+}
+.card {
+    margin: 10px;
+    align-items: center;
+}
